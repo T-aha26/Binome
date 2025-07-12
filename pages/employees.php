@@ -18,7 +18,7 @@ if (!isset($connexion)) {
 <body>
 <a href="../index.php" class="btn btn-secondary mt-3">Retour aux départements</a>
 <div class="container mt-5">
-    <a href="../index.php" class="btn btn-secondary mt-3">Retour aux départements</a>
+   
     <h2 class="mb-4 text-center">Employés du Département</h2>
 
     <table class="table table-striped table-bordered">
