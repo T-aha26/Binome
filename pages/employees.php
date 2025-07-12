@@ -16,7 +16,7 @@ if (!isset($connexion)) {
     <script src="../assets/bootstrap-5.3.5-dist/js/bootstrap.bundle.min.js"></script>
 </head>
 <body>
-<a href="../index.php" class="btn btn-secondary mt-3">Retour aux départements</a>
+<a href="../index.php" class="btn btn-secondary mt-3">◀</a>
 <div class="container mt-5">
    
     <h2 class="mb-4 text-center">Employés du Département</h2>
