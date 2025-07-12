@@ -74,7 +74,7 @@ if (!isset($connexion)) {
                 
                 echo "<td>$manager</td>";
                 echo "<td><a href='pages/employees.php?code=$code' class='btn btn-primary btn-sm'>Voir</a></td>";
-                echo "<td><a href='pages/nbe.employees.php?code=$code' class='btn btn-primary btn-sm'>Voir</a></td>";
+                echo "<td><a href='pages/nb.employees.php?code=$code' class='btn btn-primary btn-sm'>Voir</a></td>";
                 echo "</tr>";
             }
         } else {
