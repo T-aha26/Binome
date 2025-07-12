@@ -90,7 +90,7 @@ if (!isset($connexion)) {
         ?>
         </tbody>
     </table>
-    <a href="../index.php" class="btn btn-secondary mt-3">Retour aux Départements</a>
+    <a href="../index.php" class="btn btn-secondary mt-3">⬅</a>
 </div>
 
 </body>
